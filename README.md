@@ -36,4 +36,19 @@ GDP
 Population growth
 Inflation
 
+🔍 Exploratory Data Analysis (EDA)
+**Key insights:**
+Strong seasonality in passenger volumes
+Major structural break during COVID-19
+Correlation between passenger traffic and:
+* GDP
+* Oil prices
+Post-pandemic recovery trend with volatility
+
+Visualizations included:
+Univariate and bivariate analysis
+Time series decomposition
+Correlation heatmaps
+Residual diagnostics
+Trend and seasonality plots
 
