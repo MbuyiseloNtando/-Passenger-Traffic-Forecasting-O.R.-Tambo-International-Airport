@@ -31,36 +31,56 @@ Airline operational cost pressure
 **Econometric & Demographic Data**
 
 CSV format
+
 Indicators included:
+
 GDP
+
 Population growth
+
 Inflation
 
 # **Data Engineering & Preprocessing**
 
 Time series alignment (monthly frequency)
+
 Handling missing values
+
 Feature scaling (where required)
+
 Lag feature creation
+
 Rolling statistics (moving averages)
+
 COVID-19 structural break handling
+
 Stationarity testing (ADF test)
+
 Differencing (for SARIMA)
 
 # **🔍 Exploratory Data Analysis (EDA)**
 
 **Key insights:**
+
 Strong seasonality in passenger volumes
+
 Major structural break during COVID-19
+
 Correlation between passenger traffic and:
 * GDP
 * Oil prices
+
 Post-pandemic recovery trend with volatility
 
-Visualizations included:
+**Visualizations included:**
+
 Univariate and bivariate analysis
+
 Time series decomposition
+
 Correlation heatmaps
+
 Residual diagnostics
+
 Trend and seasonality plots
 
