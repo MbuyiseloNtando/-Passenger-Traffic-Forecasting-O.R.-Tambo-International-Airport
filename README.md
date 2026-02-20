@@ -38,7 +38,14 @@ GDP
 
 Population growth
 
-Inflation
+Consumer Price Index
+
+Number of tourists
+
+Trade Balance
+
+Consumer Spending
+
 
 # **Data Engineering & Preprocessing**
 
