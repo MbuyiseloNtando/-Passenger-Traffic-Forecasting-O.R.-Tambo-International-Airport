@@ -12,15 +12,13 @@ The dataset combines multiple structured and unstructured data sources:
 
 **Source:** Airports Company South Africa (ACSA)
 
-Format: PDF reports
+**Format:** PDF reports
 
-Processing:
-
-Extracted and cleaned using Power Query
+**Processing:** Extracted and cleaned using Power Query
 
 Transformed into structured time-series dataset
 
-Crude Oil Prices
+**Crude Oil Prices**
 
 Scraped using Python (BeautifulSoup)
 
@@ -30,16 +28,12 @@ Fuel cost
 
 Airline operational cost pressure
 
-Econometric & Demographic Data
+**Econometric & Demographic Data**
 
 CSV format
-
 Indicators included:
-
 GDP
-
 Population growth
-
 Inflation
 
-Exchange rate (if applicable)
+
