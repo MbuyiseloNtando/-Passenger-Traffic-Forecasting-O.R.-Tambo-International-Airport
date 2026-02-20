@@ -36,7 +36,19 @@ GDP
 Population growth
 Inflation
 
-🔍 Exploratory Data Analysis (EDA)
+# **Data Engineering & Preprocessing**
+
+Time series alignment (monthly frequency)
+Handling missing values
+Feature scaling (where required)
+Lag feature creation
+Rolling statistics (moving averages)
+COVID-19 structural break handling
+Stationarity testing (ADF test)
+Differencing (for SARIMA)
+
+# **🔍 Exploratory Data Analysis (EDA)**
+
 **Key insights:**
 Strong seasonality in passenger volumes
 Major structural break during COVID-19
