@@ -81,7 +81,7 @@ Post-pandemic recovery trend with volatility
 
 **Visualizations included:**
 
-Univariate and bivariate analysis
+Univariate and bivariate analysis plots
 
 Time series decomposition
 
