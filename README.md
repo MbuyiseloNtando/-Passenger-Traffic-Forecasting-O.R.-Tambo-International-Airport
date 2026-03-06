@@ -6,7 +6,7 @@ This project aims to forecast monthly passenger traffic at O.R. Tambo Internatio
 The goal is to understand the drivers of passenger demand and build predictive models to improve forecasting accuracy for aviation planning and resource allocation.
 
 **📊 Data Sources**
-The dataset combines multiple structured and unstructured data sources:
+The dataset combines multiple structured data sources:
 
 **Passenger Traffic Data**
 
@@ -18,33 +18,25 @@ The dataset combines multiple structured and unstructured data sources:
 
 Transformed into structured time-series dataset
 
-**Crude Oil Prices**
+**Tourists Numbers**
 
-Scraped using Python (BeautifulSoup)
+**Source:** STATS SA
 
-Used as a proxy for:
+Ectracted data from screenshots taken from Statistics South Africa reports using ChatGTP.
 
-Fuel cost
-
-Airline operational cost pressure
 
 **Econometric & Demographic Data**
 
-CSV format
+**GDP**
 
-Indicators included:
+**Source:** International Monetary Fund
 
-GDP
+**Population**
 
-Population growth
+**Source:** World Bank Open Data
 
-Consumer Price Index
-
-Number of tourists
-
-Trade Balance
-
-Consumer Spending
+**CPI**
+**Source:** STATS SA
 
 
 # **Data Engineering & Preprocessing**
