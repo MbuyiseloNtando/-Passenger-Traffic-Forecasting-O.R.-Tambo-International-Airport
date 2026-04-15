@@ -1,4 +1,4 @@
-# **✈️ Passenger Traffic Forecasting – O.R. Tambo International Airport**
+# **✈️ Domestic Passenger Traffic Forecasting – O.R. Tambo International Airport**
 **📌 Project Overview**
 
 This project aims to forecast monthly passenger traffic at O.R. Tambo International Airport using econometric and demographic indicators.
