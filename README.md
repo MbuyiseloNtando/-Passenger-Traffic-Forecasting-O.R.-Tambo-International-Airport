@@ -1,7 +1,7 @@
 # **✈️ Domestic Passenger Traffic Forecasting – O.R. Tambo International Airport**
 **📌 Project Overview**
 
-This project aims to forecast monthly passenger traffic at O.R. Tambo International Airport using econometric and demographic indicators.
+This project aims to forecast monthly domestic passenger traffic at O.R. Tambo International Airport using econometric and demographic indicators.
 
 The goal is to understand the drivers of passenger demand and build predictive models to improve forecasting accuracy for aviation planning and resource allocation.
 
